@@ -321,6 +321,6 @@ Production modunda çalıştırmak için:
   
 ## Demo
 
-https://events-frontend-amber.vercel.app/
+https://stingray-app-49bnu.ondigitalocean.app/
 
   
