@@ -314,7 +314,7 @@ Production modunda çalıştırmak için:
   
 ## Kullanılan Teknolojiler
 
-**React, Tanstack React Query, Nextjs, TailwindCSS** 
+**Node.js, Express, Typescript, MongoDB** 
 
 
 
