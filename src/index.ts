@@ -14,9 +14,9 @@ const app: Express = express();
 const port = process.env.PORT;
 
 //*MIDDLEWARES
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.use(helmet());
+app.use(helmet({contentSecurityPolicy: false}));
 app.use(cors());
 
 //*ROUTES
